@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Matrimony App</string>
+
+    <string name="user_list_title">Matrimony App</string>
+    <string name="all_matches">All Matches</string>
+    <string name="accepted_matches">Accepted</string>
+    <string name="declined_matches">Declined</string>
+    <string name="accept">Accept</string>
+    <string name="decline">Decline</string>
+    <string name="member_declined">Member Declined</string>
+    <string name="member_accepted">Member Accepted</string>
+    <string name="no_declined_matches">No Declined Matches</string>
+    <string name="no_accepted_matches">No Accepted Matches</string>
+
+</resources>
